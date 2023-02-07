@@ -10,5 +10,5 @@ A simple calculator written in <b>Python </b> . Where some operators are listed 
 then,
 <br>
 then run the program by executing : <code> python main.py
-<br>
+
 
